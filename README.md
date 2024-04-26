@@ -10,16 +10,14 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/9a/68/77/9a68775ff707a1b97dbad439812ff4b1.gif"  />
+<div>
+      <div style="display: inline-block; margin: 10px; border-radius: 15px; overflow: hidden;">
+        <img height="200" src="https://i.pinimg.com/originals/9a/68/77/9a68775ff707a1b97dbad439812ff4b1.gif" style="display: block; max-width: 100%; height: auto; border-radius: 15px;" alt="kero gameplay">
+      </div>
+      <div style="display: inline-block; margin: 10px; border-radius: 15px; overflow: hidden;">
+        <img height="200" src="https://i.pinimg.com/564x/e3/10/eb/e310eba8c36821d40214ea5379edea75.jpg" style="display: block; max-width: 100%; height: auto; border-radius: 15px;" alt="kero pudding">
+      </div>
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/e3/10/eb/e310eba8c36821d40214ea5379edea75.jpg"  />
-</div>
-
 ###
 
 <h2 align="left">Tech Stack</h2>
