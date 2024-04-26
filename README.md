@@ -6,6 +6,22 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/9a/68/77/9a68775ff707a1b97dbad439812ff4b1.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/564x/e3/10/eb/e310eba8c36821d40214ea5379edea75.jpg"  />
+</div>
+
+###
+
 <h2 align="left">Tech Stack</h2>
 
 ###
@@ -99,14 +115,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yp9435&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="137" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=yp9435&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="137" alt="streak graph"  />
 </div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/yp9435/yp9435/output/snake.svg" alt="Snake animation" />
 
 ###
 
