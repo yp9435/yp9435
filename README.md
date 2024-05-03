@@ -11,8 +11,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/9a/68/77/9a68775ff707a1b97dbad439812ff4b1.gif" alt="Dragon GIF" style="display:inline-block; margin: 10px; border-radius: 15px;">
-  <img height="200" src="https://i.pinimg.com/564x/e3/10/eb/e310eba8c36821d40214ea5379edea75.jpg" alt="Forest Image" style="display:inline-block; margin: 10px; border-radius: 15px;">
+  <img height="200" src="https://c.tenor.com/6P5fuyqx4eoAAAAC/kero-happy.gif" alt="Dragon GIF" style="display:inline-block; margin: 10px; border-radius: 15px;">
+  <img height="200" src="https://th.bing.com/th/id/R.0ceb3f1176d6052eb5a18b46e85c158c?rik=Uzm0TYHypR00aQ&riu=http%3a%2f%2fi.imgur.com%2fz7pdMzw.gif" alt="Forest Image" style="display:inline-block; margin: 10px; border-radius: 15px;">
 </div>
 
 
