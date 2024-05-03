@@ -1,6 +1,5 @@
 <h1 align="center">Heyyy, I'm Yeshaswi!</h1>
 
-###
 
 <p align="center">An Undergrad Student exploring AI/ML & UIUX</p>
 
