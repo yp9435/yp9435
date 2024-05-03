@@ -12,7 +12,7 @@
 
 <div align="center">
   <img height="200" src="https://c.tenor.com/6P5fuyqx4eoAAAAC/kero-happy.gif" alt="Dragon GIF" style="display:inline-block; margin: 10px; border-radius: 15px;">
-  <img height="200" src="https://th.bing.com/th/id/R.0ceb3f1176d6052eb5a18b46e85c158c?rik=Uzm0TYHypR00aQ&riu=http%3a%2f%2fi.imgur.com%2fz7pdMzw.gif" alt="Forest Image" style="display:inline-block; margin: 10px; border-radius: 15px;">
+  <img height="200" src="https://th.bing.com/th/id/R.0ceb3f1176d6052eb5a18b46e85c158c?rik=Uzm0TYHypR00aQ&riu=http%3a%2f%2fi.imgur.com%2fz7pdMzw.gif&ehk=ZucPXTPNJdVO9K4gYL2iwUxcN4LdMS1W6OZaUMW6ePo%3d&risl=&pid=ImgRaw&r=0" alt="Forest Image" style="display:inline-block; margin: 10px; border-radius: 15px;">
 </div>
 
 
