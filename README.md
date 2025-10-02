@@ -96,6 +96,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
   </a>
 </div>
+[![An image of @yp9435's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yp9435)](https://holopin.io/@yp9435)
 
 ###
 
